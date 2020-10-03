@@ -1,2 +1,5 @@
 # Noisey-shapes
-Experimenting with pycairo and noise library. Eventually aim to do more complicated shapes.
+**Description** <br>
+Making the computer draw weird shapes using basic trigonometry and different species of randomness(noise). <br>
+
+
