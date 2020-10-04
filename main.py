@@ -44,7 +44,6 @@ def main():
         
         noisey_ = noise.pnoise1(x[i], octaves=8, persistence=0.7)
         
-        
         angle = (2*PI/360 * i)
         #angle += ((noisey_*6) - 1)
         
