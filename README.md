@@ -31,5 +31,12 @@ The variance is better looking. Perlin noise in Python is achieved using the `no
 **Note** <br>
 It's way easier to install all these libraries using conda instead of pip.
 
+## Example <br>
+`ea89c1c7_3_turns.png`
+![img](/images_/ea89c1c7_3_turns.png?raw=true "image")
+
+
+
+
 
 
